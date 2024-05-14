@@ -1,0 +1,18 @@
+body {
+    padding: 0 auto;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.card {
+    margin: 0;
+    padding: 0;
+}
+
+.card-body p span {
+    text-decoration: line-through;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
